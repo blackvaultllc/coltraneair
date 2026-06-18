@@ -1,7 +1,8 @@
-export const BRAND = "Air 5 Wing Pilots USA";
-export const BRAND_SHORT = "Air 5 Wing";
-export const BRAND_TAGLINE = "Private aviation, redefined.";
+export const BRAND = "Coltrane Air";
+export const BRAND_SHORT = "Coltrane Air";
+export const BRAND_TAGLINE = "Luxury in Perfect Harmony.";
 export const ADMIN_EMAIL = "blackhatterxvi@gmail.com";
+export const OWNER_EMAIL = "dejuanetimmes@gmail.com";
 export const LAUNCH_DATE = (() => {
   const d = new Date();
   d.setDate(d.getDate() + 90);
