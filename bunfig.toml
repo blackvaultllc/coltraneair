@@ -1,4 +1,4 @@
 [install]
 frozen = false
 minimumReleaseAge = 86400
-minimumReleaseAgeExcludes = ["@lovable.dev/vite-tanstack-config", "@lovable.dev/mcp-js"]
+minimumReleaseAgeExcludes = ["@lovable.dev/vite-tanstack-config", "@lovable.dev/mcp-js", "wrangler"]
