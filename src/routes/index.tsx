@@ -88,7 +88,7 @@ function Landing() {
           <div className="max-w-4xl text-center w-full">
             <p className="text-gold text-[10px] sm:text-xs md:text-sm tracking-[0.3em] sm:tracking-[0.4em] uppercase mb-4 sm:mb-6">Alabama · Coming Soon</p>
             <h1 className="font-display text-4xl sm:text-5xl md:text-7xl lg:text-8xl leading-[1.05] text-champagne">
-              Where The Sky <br/>
+              Coltrane Private Airline <br/>
               <span className="text-gradient-gold italic">Luxury in Perfect Harmony</span>
             </h1>
             <p className="mt-5 sm:mt-6 text-base sm:text-lg md:text-xl text-foreground/80 max-w-2xl mx-auto px-2">
